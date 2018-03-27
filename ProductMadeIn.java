@@ -10,6 +10,7 @@ public class ProductMadeIn implements Serializable{
 
     private String name;  //":"新西兰",
     private String icon;  //":""
+	private int code;
 
     public String getName() {
         return name;
